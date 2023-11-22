@@ -39,3 +39,4 @@ int main(){
     for(int i=bits-1;i>=0;i--){
         if(bin[i]==1||bin[i]==0){
         //   …
+        }}}
